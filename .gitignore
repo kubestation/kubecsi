@@ -1,0 +1,43 @@
+# binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# go test binaries when build with `go test -c`
+*.test
+
+# vscode files
+.vscode
+
+# JetBrains IDE
+.idea/
+*.iml
+
+# LiteIDE
+*.out
+
+# eclipse
+.classpath
+.project
+.settings/**
+
+# vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# emacs
+*~
+\#*\#
+.\#*
+
+# make
+/.make/
+
+# OSX
+._*
+.DS_Store
